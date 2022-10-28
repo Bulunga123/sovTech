@@ -13,7 +13,7 @@ const Display = styled.div`
 
 const Name  = styled.h1`
   color: #00008B;
-  font-size: 11rem;
+  font-size: 10rem;
   font-weight:50;
 `;
 const sto = styled.div`
