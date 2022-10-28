@@ -44,7 +44,7 @@ export default function Home() {
           WHY SovTec? <br></br>
           I truly believe that SovTec will help me grow the neccessary skills to build my career by adding on 
           what I have already aquired through the course of my studies and i can be great asset to the company.</p>
-      <Image src ="/bulunga.jpg" width ={900} height ={1200}/>
+      <Image src ="/bulunga.jpg" alt='bulunga' width ={900} height ={1200}/>
       </Display>
     </>
 
